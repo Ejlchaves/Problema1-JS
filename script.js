@@ -5,20 +5,6 @@ let plata = parseFloat(prompt("Ingrese aqui su dinero disponible"));
 
 //Roberto: $1.5 , Pedro: $1.7, Juan: $3
 
-/* let palitoAgua = parseFloat(0.6);
-let palitoCrema = parseInt (1);
-let bombonHelado = parseFloat (1.6);
-let bombonChocolate = parseFloat (1.7);
-let bombonBanado = parseFloat (1.8);
-let poteHelado = parseFloat (2.9);
-
-let vuelto1 = plata - 0.6;
-let vuelto2 = plata - 1;
-let vuelto3 = plata - 1.6;
-let vuelto4 = plata - 1.7;
-let vuelto5 = plata - 1.8;
-let vuelto6 = plata - 2.9; */
-
 
 if (plata < 0.6) {
 
